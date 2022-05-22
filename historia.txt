@@ -1,5 +1,6 @@
 This is the story about GIT
 
-I don't know how is it 
+I don't know how is it . maybe I need to be quiet 
+to learn more about python
 
 but I need to learn that
