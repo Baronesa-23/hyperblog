@@ -9,4 +9,4 @@ It is strange
 I prefer python only
 
 from line 6 does not appear in it
-help me please 
+help me please. that is all.
