@@ -1,2 +1,2 @@
 # hyperblog
-solo para el curso de 
+solo para el curso del curso de Platzi
